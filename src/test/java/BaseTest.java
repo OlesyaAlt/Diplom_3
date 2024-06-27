@@ -1,16 +1,24 @@
+import io.restassured.RestAssured;
+import io.restassured.filter.log.RequestLoggingFilter;
+import io.restassured.filter.log.ResponseLoggingFilter;
 import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
+import steps.Steps;
+
+import java.util.concurrent.TimeUnit;
 
 import static constants.Url.URL;
 
-public abstract class BaseCase {
+public abstract class BaseTest {
     public static WebDriver webDriver;
-    private static final String BROWSER = "chrome";
+    public final Steps steps = new Steps();
     @Before
     public void setup(){
-        webDriver = WebDriverFactory.getWebDriver(BROWSER);
+        webDriver = WebDriverFactory.getWebDriver();
         webDriver.get(URL);
+        RestAssured.filters(new RequestLoggingFilter(), new ResponseLoggingFilter());
+        RestAssured.baseURI = URL;
     }
     @After
     public void tearDown(){
