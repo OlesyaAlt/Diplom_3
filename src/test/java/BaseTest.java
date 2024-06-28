@@ -5,9 +5,6 @@ import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import steps.Steps;
-
-import java.util.concurrent.TimeUnit;
-
 import static constants.Url.URL;
 
 public abstract class BaseTest {

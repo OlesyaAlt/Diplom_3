@@ -4,41 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e465ea5-dd68-4c4c-9372-abfdbd6bcd1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/yandexdriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="6e465ea5-dd68-4c4c-9372-abfdbd6bcd1a" name="Changes" comment="На проверку">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForgotPasswordPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForgotPasswordPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProfilePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RegisterPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebDriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constants/Url.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constants/Url.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/ResponseUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/ResponseUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/steps/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AccountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConstructorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RegisterNegativeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegisterNegativeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegisterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/03c4f6f4-310a-4e1d-a682-d68b820b42ea-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/179cfd81-fcd2-4294-b042-9be6b1f844c1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/2ab53c00-c92c-408a-abed-0b87462935a2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/4e37196b-258c-4a7b-a384-373211f3f578-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/8a2158f4-1b76-4f16-a7b6-38f48aa6a532-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9e2f56ab-765c-4c1b-bb8c-17582387309f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9eb7e535-bfa0-4d23-95ae-7cb5ac780176-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/afc5fa94-c10f-4c3b-8a3f-3dd70afff25f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/c22b4341-6d40-4535-ad6e-ea333b7e6ba5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d3daf3bd-6cc8-4190-bf69-21fc6e5b7806-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d8068029-adb0-466e-9ec8-380609f09808-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/f0f71e98-1975-43e4-a5eb-98bb75e4184b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ffbbfc76-a493-4ba3-a314-1681fd3614ff-result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,40 +41,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.AccountTest.clickOnExitButton.executor": "Run",
-    "JUnit.AccountTest.executor": "Run",
-    "JUnit.AccountTest.transferToPersonalAccount.executor": "Run",
-    "JUnit.ConstructorTest.executor": "Run",
-    "JUnit.ConstructorTest.registerTest.executor": "Run",
-    "JUnit.ConstructorTest.transferOnBunsTest.executor": "Run",
-    "JUnit.ConstructorTest.transferOnSaucesTest (1).executor": "Run",
-    "JUnit.ConstructorTest.transferOnSaucesTest.executor": "Run",
-    "JUnit.LoginTest.loginFromRecoverPasswordTest.executor": "Run",
-    "JUnit.LoginTest.loginFromRegistrationButtonTest.executor": "Run",
-    "JUnit.LoginTest.loginPersonalAccountButtonTest.executor": "Run",
-    "JUnit.LoginTest.loginTest.executor": "Run",
-    "JUnit.LoginTest.loginToAccountButtonTest.executor": "Run",
-    "JUnit.RegisterNegativeTest.executor": "Run",
-    "JUnit.RegisterNegativeTest.registerBadTest.executor": "Run",
-    "JUnit.RegisterTest.executor": "Run",
-    "JUnit.RegisterTest.registerBadTest.executor": "Run",
-    "JUnit.RegisterTest.registerTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop3",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/5410902/Diplom/Diplom_3/src/test/resources"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AccountTest.clickOnExitButton.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.transferToPersonalAccount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.registerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.transferOnBunsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.transferOnSaucesTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.transferOnSaucesTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginFromRecoverPasswordTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginFromRegistrationButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginPersonalAccountButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginToAccountButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterNegativeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterNegativeTest.registerBadTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterTest.registerBadTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterTest.registerTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop3&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/5410902/Diplom/Diplom_3/src/test/resources&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\5410902\Diplom\Diplom_3\src\test\resources" />
       <recent name="C:\Users\5410902\Diplom\Diplom_3\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ConstructorTest.transferOnBunsTest">
     <configuration name="ConstructorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Diplom_3" />
       <option name="PACKAGE_NAME" value="" />
@@ -190,7 +162,20 @@
       <option name="presentableId" value="Default" />
       <updated>1719236462268</updated>
     </task>
+    <task id="LOCAL-00001" summary="На проверку">
+      <option name="closed" value="true" />
+      <created>1719503620080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719503620080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="На проверку" />
+    <option name="LAST_COMMIT_MESSAGE" value="На проверку" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Diplom_3$ConstructorTest_transferOnSaucesTest.ic" NAME="ConstructorTest.transferOnSaucesTest Coverage Results" MODIFIED="1719493405556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

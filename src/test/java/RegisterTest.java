@@ -24,16 +24,9 @@ public class RegisterTest extends BaseTest {
         loginPage.clickRegisterButton();
 
         RegisterPage registerPage = new RegisterPage(webDriver);
-      //  registerPage.inputNameField(name);
-      //  registerPage.inputEmailField(email);
-      //  registerPage.inputPasswordField(password);
-      //  registerPage.clickRegisterButton();
         registerPage.inputLoginInfoUser(name, email, password);
 
         loginPage.waitForLoad();
-       // loginPage.inputEmailField(email);
-       // loginPage.inputPasswordField(password);
-       // loginPage.clickLoginButton();
         loginPage.inputLoginInfoUser(email, password);
 
         assertTrue(homePage.createOrderButtonIsEnabled());

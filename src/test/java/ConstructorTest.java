@@ -3,8 +3,6 @@ import io.qameta.allure.junit4.DisplayName;
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.Assert.assertTrue;
-
 public class ConstructorTest extends BaseTest{
     //На главной странице работает переход к разделу Соусы
     @Test
