@@ -4,32 +4,155 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e465ea5-dd68-4c4c-9372-abfdbd6bcd1a" name="Changes" comment="" />
+    <list default="true" id="6e465ea5-dd68-4c4c-9372-abfdbd6bcd1a" name="Changes" comment="На проверку">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegisterTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2iKPnaDYbMkDTTt7E3odIp7qYG5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AccountTest.clickOnExitButton.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AccountTest.transferToPersonalAccount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.registerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.transferOnBunsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.transferOnSaucesTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConstructorTest.transferOnSaucesTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginFromRecoverPasswordTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginFromRegistrationButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginPersonalAccountButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.loginToAccountButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterNegativeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterNegativeTest.registerBadTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterTest.registerBadTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegisterTest.registerTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop3&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/5410902/Diplom/Diplom_3/src/test/resources&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\5410902\Diplom\Diplom_3\src\test\resources" />
+      <recent name="C:\Users\5410902\Diplom\Diplom_3\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ConstructorTest.transferOnBunsTest">
+    <configuration name="ConstructorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConstructorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorTest.transferOnBunsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConstructorTest" />
+      <option name="METHOD_NAME" value="transferOnBunsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorTest.transferOnSaucesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConstructorTest" />
+      <option name="METHOD_NAME" value="transferOnSaucesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorTest.transferOnSaucesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConstructorTest" />
+      <option name="METHOD_NAME" value="transferOnSaucesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=yandex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginToAccountButtonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="loginToAccountButtonTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.registerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegisterTest" />
+      <option name="METHOD_NAME" value="registerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ConstructorTest.transferOnBunsTest" />
+      <item itemvalue="JUnit.ConstructorTest" />
+      <item itemvalue="JUnit.ConstructorTest.transferOnSaucesTest" />
+      <item itemvalue="JUnit.LoginTest.loginToAccountButtonTest" />
+      <item itemvalue="JUnit.RegisterTest.registerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConstructorTest.transferOnBunsTest" />
+        <item itemvalue="JUnit.ConstructorTest.transferOnSaucesTest" />
+        <item itemvalue="JUnit.ConstructorTest" />
+        <item itemvalue="JUnit.ConstructorTest.transferOnSaucesTest" />
+        <item itemvalue="JUnit.LoginTest.loginToAccountButtonTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +162,22 @@
       <option name="presentableId" value="Default" />
       <updated>1719236462268</updated>
     </task>
+    <task id="LOCAL-00001" summary="На проверку">
+      <option name="closed" value="true" />
+      <created>1719503620080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719503620080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="На проверку" />
+    <option name="LAST_COMMIT_MESSAGE" value="На проверку" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Diplom_3$ConstructorTest_transferOnSaucesTest.ic" NAME="ConstructorTest.transferOnSaucesTest Coverage Results" MODIFIED="1719493405556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
